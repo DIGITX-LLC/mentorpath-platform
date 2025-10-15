@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MentorPath.ai Platform
 
-## Getting Started
+AI education platform for Bangladesh, empowering individuals with AI knowledge and skills.
 
-First, run the development server:
+## 🚀 Features
+
+- **Bangladesh-Centric Content**: Tailored AI education for the Bangladeshi community
+- **Bilingual Support**: Full support for English and Bengali (বাংলা)
+- **Events System**: Virtual and in-person AI learning events
+- **Knowledge Hub**: Videos, tutorials, and resources from AI basics to advanced content
+- **Dark Theme**: Modern, eye-friendly dark interface
+- **Responsive Design**: Works seamlessly on mobile, tablet, and desktop
+
+## 🛠️ Tech Stack
+
+- **Framework**: Next.js 15 with App Router
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion
+- **Icons**: Lucide React
+- **Fonts**: Noto Sans Bengali for Bengali script support
+
+## 📦 Installation
 
 ```bash
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Build for production
+npm run build
+
+# Start production server
+npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌐 Routes
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- `/bd` - Bangladesh homepage
+- `/bd/events` - Events listing
+- `/bd/content` - Knowledge hub
+- `/bd/dashboard` - User dashboard
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎨 Branding
 
-## Learn More
+**Brand Name**: MentorPath.ai  
+**Primary Colors**: 
+- Background: `#030205`
+- Accent: Various gradients (teal to blue, purple to pink, etc.)
+- Text: White with opacity variants
 
-To learn more about Next.js, take a look at the following resources:
+## 📝 License
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+© 2025 DigitX LLC. All rights reserved.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🤝 Contributing
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Contact: academy@mentorpath.ai
