@@ -199,7 +199,7 @@ export default function AcademyLayout({
 
               {/* Sign In */}
               <Link
-                href="https://ai.onebrain.app/login"
+                href="https://mentorpath.ai/login"
                 className="px-4 py-2 bg-transparent text-white rounded-lg font-medium hover:bg-white/10 transition-all border border-white/30"
               >
                 {t.signIn}

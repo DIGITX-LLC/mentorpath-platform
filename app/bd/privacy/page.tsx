@@ -61,7 +61,7 @@ export default function PrivacyPage() {
 
             <section>
               <h2 className="text-2xl font-bold text-white mt-8 mb-4">7. Contact</h2>
-              <p>For privacy-related questions, please contact us at <a href="mailto:privacy@onebrain.app" className="text-[#60A5FA] hover:text-[#3FBFF4]">privacy@onebrain.app</a></p>
+              <p>For privacy-related questions, please contact us at <a href="mailto:privacy@mentorpath.ai" className="text-[#60A5FA] hover:text-[#3FBFF4]">privacy@mentorpath.ai</a></p>
             </section>
           </div>
         </div>

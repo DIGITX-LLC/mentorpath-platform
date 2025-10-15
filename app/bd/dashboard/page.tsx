@@ -48,7 +48,7 @@ export default function DashboardPage() {
       id: 1,
       title: "MentorPath.ai Fundamentals",
       type: "Resource",
-      slug: "onebrain-fundamentals"
+      slug: "mentorpath-fundamentals"
     },
     {
       id: 2,

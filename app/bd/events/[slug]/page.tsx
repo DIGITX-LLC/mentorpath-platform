@@ -206,7 +206,7 @@ export default function EventDetailPage() {
                   </Link>
                 </li>
                 <li className="px-1 py-1 ml-2">
-                  <Link href="https://ai.onebrain.app/login">
+                  <Link href="https://mentorpath.ai/login">
                     <DynamicButton
                       label="Sign In"
                       size="w-auto px-3 xl:px-4 h-[35px] rounded-full font-normal block text-sm"

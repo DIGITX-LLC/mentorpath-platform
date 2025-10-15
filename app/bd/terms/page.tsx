@@ -56,7 +56,7 @@ export default function TermsPage() {
 
             <section>
               <h2 className="text-2xl font-bold text-white mt-8 mb-4">7. Contact</h2>
-              <p>For questions about these Terms of Service, please contact us at <a href="mailto:academy@onebrain.app" className="text-[#60A5FA] hover:text-[#3FBFF4]">academy@onebrain.app</a></p>
+              <p>For questions about these Terms of Service, please contact us at <a href="mailto:academy@mentorpath.ai" className="text-[#60A5FA] hover:text-[#3FBFF4]">academy@mentorpath.ai</a></p>
             </section>
           </div>
         </div>

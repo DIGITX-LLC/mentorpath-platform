@@ -31,7 +31,7 @@ export default function ContentDetailPage() {
       title: "Content Team"
     },
     thumbnail: "/assets/explore_banner.png",
-    slug: "onebrain-fundamentals",
+    slug: "mentorpath-fundamentals",
     duration: "15 min read",
     content: `
       # Introduction to MentorPath.ai
@@ -64,7 +64,7 @@ export default function ContentDetailPage() {
       ## Getting Started with MentorPath.ai
 
       ### Step 1: Create Your Account
-      Visit [ai.onebrain.app](https://ai.onebrain.app) and sign up for a free account. You'll get immediate access to our basic features.
+      Visit [mentorpath.ai](https://mentorpath.ai) and sign up for a free account. You'll get immediate access to our basic features.
 
       ### Step 2: Explore the Models
       Navigate through our model selector to find the perfect AI for your task. Each model has unique strengths:
@@ -144,7 +144,7 @@ export default function ContentDetailPage() {
 
       MentorPath.ai democratizes access to AI, making it easier than ever to leverage cutting-edge technology for your personal and professional growth. Start your AI journey today and discover what's possible when you have the world's best AI models at your fingertips.
 
-      Ready to get started? [Join MentorPath.ai Now](https://ai.onebrain.app/register)
+      Ready to get started? [Join MentorPath.ai Now](https://mentorpath.ai/register)
     `,
     relatedContent: [
       {
@@ -163,7 +163,7 @@ export default function ContentDetailPage() {
         id: 4,
         title: "MentorPath.ai Pro Features",
         type: "Video",
-        slug: "onebrain-pro-features"
+        slug: "mentorpath-pro-features"
       }
     ]
   };
@@ -293,7 +293,7 @@ export default function ContentDetailPage() {
                   </Link>
                 </li>
                 <li className="px-1 py-1 ml-2">
-                  <Link href="https://ai.onebrain.app/login">
+                  <Link href="https://mentorpath.ai/login">
                     <DynamicButton
                       label="Sign In"
                       size="w-auto px-3 xl:px-4 h-[35px] rounded-full font-normal block text-sm"
@@ -392,7 +392,7 @@ export default function ContentDetailPage() {
 
               {/* Action Buttons */}
               <div className="mt-12 flex gap-4">
-                <Link href="https://ai.onebrain.app/register" className="flex-1">
+                <Link href="https://mentorpath.ai/register" className="flex-1">
                   <button className="w-full py-3 px-6 bg-transparent rounded-lg font-medium hover:bg-white/10 transition-all border border-white/30">
                     Get Started with MentorPath.ai
                   </button>

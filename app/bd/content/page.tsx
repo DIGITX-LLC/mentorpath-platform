@@ -32,7 +32,7 @@ export default function ContentPage() {
       views: "91K",
       date: "Sep 30th, 2025",
       thumbnail: "/assets/explore_banner.png",
-      slug: "onebrain-fundamentals",
+      slug: "mentorpath-fundamentals",
       trending: true
     },
     {
@@ -113,7 +113,7 @@ export default function ContentPage() {
       views: "9.5K",
       date: "Oct 18th, 2025",
       thumbnail: "/assets/explore_banner.png",
-      slug: "content-creation-onebrain",
+      slug: "content-creation-mentorpath",
       trending: false
     },
     {

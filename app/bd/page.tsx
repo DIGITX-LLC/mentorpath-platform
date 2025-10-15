@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { ArrowRight, Calendar, Clock, Users, Play, BookOpen, MessageCircle, TrendingUp } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
-import FaqSection from '../component/bd/FaqSection';
+import FaqSection from './components/FaqSection';
 import { useLanguage } from './layout';
 
 export default function AcademyPage() {
@@ -151,7 +151,7 @@ export default function AcademyPage() {
       views: "91K",
       date: "Sep 30th, 2025",
       thumbnail: "/assets/explore_banner.png",
-      slug: "onebrain-fundamentals",
+      slug: "mentorpath-fundamentals",
       trending: true
     },
     {
@@ -194,7 +194,7 @@ export default function AcademyPage() {
             <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl">
               {t.subtitle}
             </p>
-            <Link href="https://ai.onebrain.app/register">
+            <Link href="https://mentorpath.ai/register">
               <button className="px-12 py-4 bg-transparent text-white rounded-full font-semibold text-xl hover:bg-white/10 transition-all border-2 border-white/50">
                 {t.joinNow}
               </button>

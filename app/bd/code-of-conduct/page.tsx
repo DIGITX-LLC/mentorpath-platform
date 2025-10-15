@@ -59,7 +59,7 @@ export default function CodeOfConductPage() {
 
             <section>
               <h2 className="text-2xl font-bold text-white mt-8 mb-4">Reporting</h2>
-              <p>Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the team at <a href="mailto:conduct@onebrain.app" className="text-[#60A5FA] hover:text-[#3FBFF4]">conduct@onebrain.app</a>. All complaints will be reviewed and investigated promptly and fairly.</p>
+              <p>Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the team at <a href="mailto:conduct@mentorpath.ai" className="text-[#60A5FA] hover:text-[#3FBFF4]">conduct@mentorpath.ai</a>. All complaints will be reviewed and investigated promptly and fairly.</p>
             </section>
 
             <section>
